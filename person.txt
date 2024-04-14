@@ -1,0 +1,98 @@
+[
+  {
+    "FirstName": "Anna",
+    "LastName": "Luzhniak",
+    "DateofBirth": "1998.08.07",
+    "Email": "luzhnyak0anya@gmail.com",
+    "Phone": "0960494324",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "25"
+  },
+  {
+    "FirstName": "Galyna",
+    "LastName": "Luzhniak",
+    "DateofBirth": "1973.10.04",
+    "Email": "luzhnyak.galyna@gmail.com",
+    "Phone": "0974178883",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "50"
+  },
+  {
+    "FirstName": "Maria",
+    "LastName": "Luzhniak",
+    "DateofBirth": "1946.11.04",
+    "Email": "luzhnyakmar@gmail.com",
+    "Phone": "0981270147",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "77"
+  },
+  {
+    "FirstName": "Oleg",
+    "LastName": "Luzhniak",
+    "DateofBirth": "1982.06.01",
+    "Email": "oleg.luzhnyak@gmail.com",
+    "Phone": "0972581000",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Male",
+    "Age": "41"
+  },
+  {
+    "FirstName": "Viktor",
+    "LastName": "Luzhniak",
+    "DateofBirth": "1971.06.25",
+    "Email": "luzhnyak_viktor@gmail.com",
+    "Phone": "0984720972",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Male",
+    "Age": "52"
+  },
+  {
+    "FirstName": "Oksana",
+    "LastName": "Omelchuk",
+    "DateofBirth": "2001.02.22",
+    "Email": "oksana22022001@gmail.com",
+    "Phone": "0969241349",
+    "City": "Rivne",
+    "Adrress": "Unknown",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "22"
+  },
+  {
+    "FirstName": "vlad",
+    "LastName": "Luzhniak",
+    "DateofBirth": "2001.05.09",
+    "Email": "vl@gmail.com",
+    "Phone": "0671686047",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "22"
+  },
+  {
+    "FirstName": "olia",
+    "LastName": "Luzhniak",
+    "DateofBirth": "2001.05.09",
+    "Email": "o@gmail.com",
+    "Phone": "0671686047",
+    "City": "Bila",
+    "Adrress": "Central st,58A",
+    "Country": "Ukraine",
+    "Sex": "Female",
+    "Age": "22"
+  }
+]
